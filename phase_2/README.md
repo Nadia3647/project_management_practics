@@ -6,12 +6,12 @@
 ### 2. Оценка усилий  
 Сложность задач была согласована с использованием метода **Planning Poker**.  
 Используемая таблица с результатами оценивания:  
-🔗 https://docs.google.com/spreadsheets/d/1pZXGS5HIWf2P9K_BkFlzEoIAJaA7HEcol93y8UuMT2A/edit?gid=0#gid=0
+ https://docs.google.com/spreadsheets/d/1pZXGS5HIWf2P9K_BkFlzEoIAJaA7HEcol93y8UuMT2A/edit?gid=0#gid=0
 
 ### 3. Автоматизация планирования  
 Разработан Python-скрипт (с использованием библиотеки **PuLP**) для оптимального распределения задач между участниками команды.  
 Ссылка на программу в Google Colab:  
-🔗 https://colab.research.google.com/drive/1pUgWF-kleaudQyIX3iWz7FqycttRz0us
+ https://colab.research.google.com/drive/1pUgWF-kleaudQyIX3iWz7FqycttRz0us
 
 ---
 
