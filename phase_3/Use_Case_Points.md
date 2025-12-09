@@ -89,7 +89,7 @@
 **ECF формула:**  
 `ECF = 1.4 + (-0.03 × Σ(EF))`  
 `Σ(EF) = 21`  
-**ECF = 1.4 + (-0.03 × 21) = 0.73**  
+**ECF = 1.4 + (-0.03 × 21) = 0.77**  
 
 ---
 
@@ -98,13 +98,13 @@
 **Формула:**  
 `UCP = (UAW + UUCW) × TCF × ECF`  
 
-`UCP = (38 + 115) × 1.01 × 0.73 ≈ 112 UCP`  
+`UCP = (36 + 115) × 1.01 × 0.77 ≈ 117,43 UCP`  
 
 ---
 
 **Итоговая оценка проекта EventForge:**  
-**Unadjusted Actor Weight (UAW) = 38**  
+**Unadjusted Actor Weight (UAW) = 36**  
 **Unadjusted Use Case Weight (UUCW) = 115**  
 **Technical Complexity Factor (TCF) = 1.01**  
-**Environmental Complexity Factor (ECF) = 0.73**  
-**Use Case Points (UCP) ≈ 112**
+**Environmental Complexity Factor (ECF) = 0.77**  
+**Use Case Points (UCP) ≈ 117**
