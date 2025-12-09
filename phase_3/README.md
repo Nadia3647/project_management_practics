@@ -47,12 +47,10 @@
 
 Итоговые параметры расчёта:
 
-- Unadjusted Actor Weight (UAW) = 38  
+- Unadjusted Actor Weight (UAW) = 36
 - Unadjusted Use Case Weight (UUCW) = 115  
 - Technical Complexity Factor (TCF) = 1.01  
 - Environmental Complexity Factor (ECF) = 0.73  
-
-Формула расчёта:
 
 
 Итоговая оценка проекта: **примерно 112 Use Case Points**
