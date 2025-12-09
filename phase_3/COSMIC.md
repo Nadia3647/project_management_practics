@@ -1,5 +1,4 @@
-# COSMIC Function Points – EventForge (Корректная оценка)
-
+# COSMIC Function Points – EventForge
 **Обозначения COSMIC FP:**  
 - **E** – Entry (ввод данных пользователем)  
 - **R** – Read (чтение или выбор данных из системы)  
