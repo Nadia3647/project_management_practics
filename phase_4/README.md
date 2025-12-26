@@ -29,3 +29,8 @@ $$ \text{WE} = \frac{O + 4 \cdot \text{BG} + P}{6} $$
 | 3 | 1,5h  | 3h    | 1h    | **1,83h** |
 | 4 | 3h    | 4h    | 2h    | **3h**   |
 | 5 | 4,5h  | 6h    | 3h    | **4,5h** |
+
+**Код для фазы 4:**  
+[Фаза 4](https://colab.research.google.com/drive/18miAo_HfMfu9cAUiW5T8h5Iq4lg5QKHs#scrollTo=WzMKUfK7a9ye)
+
+**`Фаза4.xlsx`** 
