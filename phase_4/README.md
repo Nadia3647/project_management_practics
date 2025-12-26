@@ -33,4 +33,4 @@ $$ \text{WE} = \frac{O + 4 \cdot \text{BG} + P}{6} $$
 **Код для фазы 4:**  
 [Фаза 4](https://colab.research.google.com/drive/18miAo_HfMfu9cAUiW5T8h5Iq4lg5QKHs#scrollTo=WzMKUfK7a9ye)
 
-**`Фаза4.xlsx`** 
+**`Фаза 4.xlsx`** 
